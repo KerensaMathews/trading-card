@@ -3,7 +3,7 @@ This is a simple trading card template built with HTML5 and CSS3.
 
 ## Project History
 
-This was an early Udacity project. We were instructed to build a sample card for a hypothetical animal trading card game, using only HTML and CSS. I chose a sea turtle as my example card topic.
+This was an early Udacity project. We were given a design protoype (of a sample card for a hypothetical animal trading card game) and instructed to turn it into a functional webpage using HTML and CSS.
 
 ## User Information
 
